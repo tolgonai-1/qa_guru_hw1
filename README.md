@@ -5,4 +5,4 @@
 ## Как использовать  
 1. Склонировать репозиторий:  
    ```bash
-   git clone git@github.com:username/homework.git
+   git clone git@github.com:tolgonai-1/qa_guru_hw1.git
